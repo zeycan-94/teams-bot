@@ -4,8 +4,8 @@ const express = require('express');
 const { BotFrameworkAdapter, ActivityHandler } = require('botbuilder');
 
 const adapter = new BotFrameworkAdapter({
-    appId: '',
-    appPassword: ''
+    appId: ''19108ed9-ea85-4f8c-ad05-54873fc22f84',',
+    appPassword: 'ztq8Q~wK6e2hIMM2mTq6QmrY0KnkxrO...'
 });
 
 class TeamsBot extends ActivityHandler {
